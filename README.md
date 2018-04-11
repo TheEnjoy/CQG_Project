@@ -1,4 +1,4 @@
 # CQG_Project
-Frontend
+Frontend:
 Bootstrap
 TinyMCE
